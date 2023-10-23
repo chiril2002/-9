@@ -1,0 +1,15 @@
+C:\Users\Chiril2002\OneDrive\Документы\2110\e10\bin\Debug\net6.0\e10.exe
+C:\Users\Chiril2002\OneDrive\Документы\2110\e10\bin\Debug\net6.0\e10.deps.json
+C:\Users\Chiril2002\OneDrive\Документы\2110\e10\bin\Debug\net6.0\e10.runtimeconfig.json
+C:\Users\Chiril2002\OneDrive\Документы\2110\e10\bin\Debug\net6.0\e10.dll
+C:\Users\Chiril2002\OneDrive\Документы\2110\e10\bin\Debug\net6.0\e10.pdb
+C:\Users\Chiril2002\OneDrive\Документы\2110\e10\obj\Debug\net6.0\e10.csproj.AssemblyReference.cache
+C:\Users\Chiril2002\OneDrive\Документы\2110\e10\obj\Debug\net6.0\e10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chiril2002\OneDrive\Документы\2110\e10\obj\Debug\net6.0\e10.AssemblyInfoInputs.cache
+C:\Users\Chiril2002\OneDrive\Документы\2110\e10\obj\Debug\net6.0\e10.AssemblyInfo.cs
+C:\Users\Chiril2002\OneDrive\Документы\2110\e10\obj\Debug\net6.0\e10.csproj.CoreCompileInputs.cache
+C:\Users\Chiril2002\OneDrive\Документы\2110\e10\obj\Debug\net6.0\e10.dll
+C:\Users\Chiril2002\OneDrive\Документы\2110\e10\obj\Debug\net6.0\refint\e10.dll
+C:\Users\Chiril2002\OneDrive\Документы\2110\e10\obj\Debug\net6.0\e10.pdb
+C:\Users\Chiril2002\OneDrive\Документы\2110\e10\obj\Debug\net6.0\e10.genruntimeconfig.cache
+C:\Users\Chiril2002\OneDrive\Документы\2110\e10\obj\Debug\net6.0\ref\e10.dll
